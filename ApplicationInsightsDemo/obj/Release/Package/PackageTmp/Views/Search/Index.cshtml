@@ -1,0 +1,33 @@
+﻿@model ApplicationInsightsDemo.Models.SearchModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Search</h2>
+
+@using (Html.BeginForm("Index", "Search", FormMethod.Post))
+{
+    <b>Search for:</b> @Html.TextBoxFor(m => m.SearchText)<br />
+    <input type="submit" value="Search Movies" />
+    <br />
+    if (Model.Results.Count > 0)
+    {
+        <table width="500px">
+            <tr>
+                <td>ID Number:</td>
+                <td>Name:</td>
+                <td>Quantity on Hand:</td>
+            </tr>
+            @foreach (var item in Model.Results)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Name</td>
+                    <td>@item.QuantityOnHand</td>
+                </tr>
+            }
+        </table>
+    }
+}

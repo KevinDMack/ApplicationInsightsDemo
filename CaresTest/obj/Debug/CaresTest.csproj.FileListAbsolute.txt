@@ -1,0 +1,9 @@
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\CaresTest\bin\Debug\WebTest1.webtest
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\CaresTest\bin\Debug\CaresTest.dll
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\CaresTest\bin\Debug\CaresTest.pdb
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\CaresTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\CaresTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\CaresTest\obj\Debug\CaresTest.csprojResolveAssemblyReference.cache
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\CaresTest\obj\Debug\CaresTest.dll
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\CaresTest\obj\Debug\CaresTest.pdb
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\CaresTest\bin\Debug\LoadTest1.loadtest

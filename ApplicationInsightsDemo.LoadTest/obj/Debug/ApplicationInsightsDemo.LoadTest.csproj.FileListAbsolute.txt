@@ -1,0 +1,11 @@
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\bin\Debug\WebTest1.webtest
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\bin\Debug\ApplicationInsightsDemo.LoadTest.dll
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\bin\Debug\ApplicationInsightsDemo.LoadTest.pdb
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\obj\Debug\ApplicationInsightsDemo.LoadTest.csprojResolveAssemblyReference.cache
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\obj\Debug\ApplicationInsightsDemo.LoadTest.dll
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\obj\Debug\ApplicationInsightsDemo.LoadTest.pdb
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\bin\Debug\LoadTest1.loadtest
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\bin\Debug\LoadTest2.loadtest
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\bin\Debug\HomeControllerTests.webtest
+C:\Users\kemack\Documents\Visual Studio 2015\Projects\ApplicationInsightsDemo\ApplicationInsightsDemo.LoadTest\bin\Debug\WebTest2.webtest

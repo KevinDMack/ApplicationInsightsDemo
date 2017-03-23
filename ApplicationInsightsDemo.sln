@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationInsightsDemo", "ApplicationInsightsDemo\ApplicationInsightsDemo.csproj", "{D8A16D50-C63B-4642-B893-C5BEB0EC0C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationInsightsDemo.Tests", "ApplicationInsightsDemo.Tests\ApplicationInsightsDemo.Tests.csproj", "{6D010F87-DEE3-419A-AC31-E3938CF40104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationInsightsDemo.LoadTest", "ApplicationInsightsDemo.LoadTest\ApplicationInsightsDemo.LoadTest.csproj", "{A6D16111-DC9E-43ED-85A3-4F5D865D6E2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{206717F6-4F41-43FB-A3DD-E9E29F234DA9}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{B7790732-3B15-4862-BE93-618D6ECD1293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A16D50-C63B-4642-B893-C5BEB0EC0C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A16D50-C63B-4642-B893-C5BEB0EC0C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A16D50-C63B-4642-B893-C5BEB0EC0C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A16D50-C63B-4642-B893-C5BEB0EC0C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D010F87-DEE3-419A-AC31-E3938CF40104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D010F87-DEE3-419A-AC31-E3938CF40104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D010F87-DEE3-419A-AC31-E3938CF40104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D010F87-DEE3-419A-AC31-E3938CF40104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D16111-DC9E-43ED-85A3-4F5D865D6E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D16111-DC9E-43ED-85A3-4F5D865D6E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D16111-DC9E-43ED-85A3-4F5D865D6E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D16111-DC9E-43ED-85A3-4F5D865D6E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7790732-3B15-4862-BE93-618D6ECD1293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7790732-3B15-4862-BE93-618D6ECD1293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7790732-3B15-4862-BE93-618D6ECD1293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7790732-3B15-4862-BE93-618D6ECD1293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mackbytes.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = ApplicationInsightsDemo.LoadTest\\ApplicationInsightsDemo.LoadTest.csproj
+		SccProjectName0 = ApplicationInsightsDemo.LoadTest
+		SccLocalPath0 = ApplicationInsightsDemo.LoadTest
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ApplicationInsightsDemo.Tests\\ApplicationInsightsDemo.Tests.csproj
+		SccProjectName2 = ApplicationInsightsDemo.Tests
+		SccLocalPath2 = ApplicationInsightsDemo.Tests
+		SccProjectUniqueName3 = ApplicationInsightsDemo\\ApplicationInsightsDemo.csproj
+		SccProjectName3 = ApplicationInsightsDemo
+		SccLocalPath3 = ApplicationInsightsDemo
+		SccProjectUniqueName4 = Demo\\Demo.csproj
+		SccProjectName4 = Demo
+		SccLocalPath4 = Demo
+	EndGlobalSection
+EndGlobal
